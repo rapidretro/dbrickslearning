@@ -63,7 +63,8 @@
 -- COMMAND ----------
 
 -- TODO
-<FILL-IN>
+Create table beans
+  (name string, color string, grams float, delicious boolean);
 
 -- COMMAND ----------
 
@@ -107,7 +108,7 @@ INSERT INTO beans VALUES
 -- COMMAND ----------
 
 -- TODO
-<FILL-IN>
+select * from beans;
 
 -- COMMAND ----------
 
@@ -120,7 +121,7 @@ INSERT INTO beans VALUES
 -- COMMAND ----------
 
 -- TODO
-<FILL-IN>
+Insert into beans values
 ('pinto', 'brown', 1.5, true),
 ('green', 'green', 178.3, true),
 ('beanbag chair', 'white', 40000, false)

@@ -150,6 +150,10 @@ display(example_df)
 
 # COMMAND ----------
 
+# MAGIC %md # This is a markdown
+
+# COMMAND ----------
+
 # MAGIC %md <i18n value="a54470bc-2a69-4a34-acbb-fe28c4dee284"/>
 # MAGIC 
 # MAGIC 
